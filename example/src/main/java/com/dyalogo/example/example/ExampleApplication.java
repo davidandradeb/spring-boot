@@ -9,7 +9,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 /**
  * Para ejecutar con otro entorno de programacion
  *  --spring.config.location=///Users/davidandrade/Downloads/example/target/config/application.properties
- *
+ * configuracion de la aplicacion principal
  *
  */
 
